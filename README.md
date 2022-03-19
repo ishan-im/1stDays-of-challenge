@@ -1,2 +1,3 @@
-# 1stDays-of-challenge
-1st day of 30 days challenge
+<h1>Drum Kit Challenge</h1>
+<br>
+1st day of 30 days javaScript challenge
